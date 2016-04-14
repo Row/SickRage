@@ -108,7 +108,7 @@ http_status_code = {
 }
 media_extensions = [
     '3gp', 'avi', 'divx', 'dvr-ms', 'f4v', 'flv', 'img', 'iso', 'm2ts', 'm4v', 'mkv', 'mov', 'mp4', 'mpeg', 'mpg',
-    'ogm', 'ogv', 'rmvb', 'tp', 'ts', 'vob', 'webm', 'wmv', 'wtv',
+    'ogm', 'ogv', 'rmvb', 'tp', 'ts', 'vob', 'webm', 'wmv', 'wtv', 'rar',
 ]
 subtitle_extensions = ['ass', 'idx', 'srt', 'ssa', 'sub']
 timeFormat = '%A %I:%M %p'
