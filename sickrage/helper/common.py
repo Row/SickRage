@@ -118,6 +118,7 @@ MEDIA_EXTENSIONS = [
     '3gp', 'avi', 'divx', 'dvr-ms', 'f4v', 'flv', 'm2ts', 'm4v',
     'mkv', 'mov', 'mp4', 'mpeg', 'mpg', 'ogm', 'ogv', 'rmvb', 'tp', 'ts', 'vob',
     'webm', 'wmv', 'wtv',
+    'rar',
 ]
 
 SUBTITLE_EXTENSIONS = ['ass', 'idx', 'srt', 'ssa', 'sub']
